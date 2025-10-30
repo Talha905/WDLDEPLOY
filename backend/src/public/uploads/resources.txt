@@ -1,0 +1,4 @@
+Resource links:
+- https://developer.mozilla.org
+- https://react.dev
+- https://nodejs.org
